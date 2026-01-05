@@ -104,27 +104,7 @@ Abra o console do navegador e tente estes comandos:
 - `skills()` - Exibe skills técnicas
 - `projects()` - Abre perfil do GitHub
 - `contact()` - Mostra informações de contato
-
-## 🌐 Deploy
-
-### GitHub Pages
-
-1. Crie um novo repositório no GitHub
-2. Faça upload de todos os arquivos
-3. Vá em Settings → Pages
-4. Selecione a branch main como source
-5. Seu site estará live em `https://seuusername.github.io/nome-do-repo`
-
-### Netlify
-
-1. Arraste e solte a pasta inteira no Netlify
-2. Pronto! Seu site está no ar
-
-### Vercel
-
-1. Conecte seu repositório GitHub ao Vercel
-2. Deploy automático a cada push
-
+  
 ## 📊 Performance
 
 - **Tempo de Carga**: < 1 segundo
